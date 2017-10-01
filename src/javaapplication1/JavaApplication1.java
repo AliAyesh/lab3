@@ -16,6 +16,9 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     
+    public void addFeatureA() {
+        System.out.println("Feature a is added !");
+    }
     public void addFeatureB(){
         System.out.println("Feature b is added !");
     }
