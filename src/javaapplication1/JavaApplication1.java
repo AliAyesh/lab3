@@ -9,13 +9,16 @@ package javaapplication1;
  *
  * @author b00045993
  */
+
 public class JavaApplication1 {
 
     /**
      * @param args the command line arguments
      */
     
-    
+    public void addFeatureB(){
+        System.out.println("Feature b is added !");
+    }
  
     public static void main(String[] args) {
         // TODO code application logic here
